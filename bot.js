@@ -29,8 +29,6 @@ GatewayIntentBits.MessageContent
 ]
 })
 
-const TOKEN = "process.env.TOKEN"
-
 let data = {}
 
 if(fs.existsSync("data.json")){
