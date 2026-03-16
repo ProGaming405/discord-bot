@@ -1,0 +1,184 @@
+{
+  "1055708125732294657": {
+    "xu": 140,
+    "inventory": [
+      "BRAINROT",
+      "BRAINROT",
+      "BRAINROT",
+      "BRAINROT",
+      "BRAINROT",
+      "BRAINROT",
+      "BRAINROT",
+      "BRAINROT",
+      "KING+++"
+    ],
+    "daily": 1773386744968,
+    "mission": "msg15",
+    "missionDone": false,
+    "missionCount": 0,
+    "lastMessage": 1773549931070,
+    "missionDate": "Sat Mar 14 2026",
+    "missionsToday": [],
+    "dailyMissions": [
+      {
+        "id": "msg10",
+        "name": "Gửi 10 tin nhắn",
+        "type": "message",
+        "goal": 10,
+        "reward": 30
+      },
+      {
+        "id": "msg15",
+        "name": "Gửi 15 tin nhắn",
+        "type": "message",
+        "goal": 15,
+        "reward": 40
+      },
+      {
+        "id": "msg5",
+        "name": "Gửi 5 tin nhắn",
+        "type": "message",
+        "goal": 5,
+        "reward": 20
+      },
+      {
+        "id": "time1",
+        "name": "Chat 1 phút",
+        "type": "time",
+        "goal": 60000,
+        "reward": 15
+      },
+      {
+        "id": "msg20",
+        "name": "Gửi 20 tin nhắn",
+        "type": "message",
+        "goal": 20,
+        "reward": 45
+      }
+    ],
+    "missionProgress": 9,
+    "missionStart": 1773397805646
+  },
+  "1296443198251470931": {
+    "xu": 351,
+    "inventory": [],
+    "daily": 0,
+    "mission": "msg15",
+    "missionDone": false,
+    "missionCount": 0,
+    "lastMessage": 1773551700033,
+    "missionDate": "Sun Mar 15 2026",
+    "missionsToday": [
+      "msg20"
+    ],
+    "dailyMissions": [
+      {
+        "id": "msg10",
+        "name": "Gửi 10 tin nhắn",
+        "type": "message",
+        "goal": 10,
+        "reward": 30
+      },
+      {
+        "id": "time1",
+        "name": "Chat 1 phút",
+        "type": "time",
+        "goal": 60000,
+        "reward": 15
+      },
+      {
+        "id": "msg5",
+        "name": "Gửi 5 tin nhắn",
+        "type": "message",
+        "goal": 5,
+        "reward": 20
+      },
+      {
+        "id": "msg20",
+        "name": "Gửi 20 tin nhắn",
+        "type": "message",
+        "goal": 20,
+        "reward": 45
+      },
+      {
+        "id": "msg15",
+        "name": "Gửi 15 tin nhắn",
+        "type": "message",
+        "goal": 15,
+        "reward": 40
+      }
+    ],
+    "missionProgress": 0,
+    "missionStart": 1773551710080
+  },
+  "1380474941488500798": {
+    "xu": 0,
+    "inventory": [],
+    "daily": 0,
+    "mission": false,
+    "missionDone": false,
+    "missionCount": 0,
+    "lastMessage": 1773397778878
+  },
+  "1138976392374136982": {
+    "xu": 45,
+    "inventory": [],
+    "daily": 0,
+    "mission": null,
+    "missionDone": false,
+    "missionCount": 0,
+    "lastMessage": 1773497881673,
+    "missionDate": "Sat Mar 14 2026",
+    "missionsToday": [
+      "msg20"
+    ],
+    "dailyMissions": [
+      {
+        "id": "msg15",
+        "name": "Gửi 15 tin nhắn",
+        "type": "message",
+        "goal": 15,
+        "reward": 40
+      },
+      {
+        "id": "msg10",
+        "name": "Gửi 10 tin nhắn",
+        "type": "message",
+        "goal": 10,
+        "reward": 30
+      },
+      {
+        "id": "msg5",
+        "name": "Gửi 5 tin nhắn",
+        "type": "message",
+        "goal": 5,
+        "reward": 20
+      },
+      {
+        "id": "time1",
+        "name": "Chat 1 phút",
+        "type": "time",
+        "goal": 60000,
+        "reward": 15
+      },
+      {
+        "id": "msg20",
+        "name": "Gửi 20 tin nhắn",
+        "type": "message",
+        "goal": 20,
+        "reward": 45
+      }
+    ],
+    "missionProgress": 0,
+    "missionStart": 1773497694859
+  },
+  "1438745415397806154": {
+    "xu": 0,
+    "inventory": [],
+    "daily": 0,
+    "mission": false,
+    "missionDone": false,
+    "missionCount": 0,
+    "lastMessage": 1773549924118
+  }
+}
