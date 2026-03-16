@@ -676,4 +676,4 @@ console.log(`✅ Bot online: ${client.user.tag}`)
 })
 
 
-client.login("MTQ4MDkyMTczODU1MTM2MTU2Nw.GtlQun.59huoBdEHaTzZP_vccHHOzfywgeMbZ6AicA3tA")
+client.login("TOKEN_BOT")
